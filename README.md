@@ -1,4 +1,4 @@
 # Git-demo
 This is my first Git  Repository.
 <br>
-Author - Komal Kalwar
+Author - Komal Kumari Kalwar
